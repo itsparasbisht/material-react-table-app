@@ -1,0 +1,30 @@
+[
+  {
+    "registration_number": "KA123209",
+    "owner": "Shreya Bisht",
+    "location": "Almora",
+    "inspected": "false",
+    "assignee": null
+  },
+  {
+    "registration_number": "KA876765",
+    "owner": "Nikhill Bora",
+    "location": "Delhi",
+    "inspected": "true",
+    "assignee": null
+  },
+  {
+    "registration_number": "KA888761",
+    "owner": "Nitika Rana",
+    "location": "Nainital",
+    "inspected": "true",
+    "assignee": null
+  },
+  {
+    "registration_number": "KA090919",
+    "owner": "Ajay Singh",
+    "location": "Bareilly",
+    "inspected": "false",
+    "assignee": null
+  }
+]

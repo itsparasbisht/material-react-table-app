@@ -1,3 +1,9 @@
+import MyTable from "@/components/MyTable";
+
 export default function Home() {
-  return <h1>hello</h1>;
+  return (
+    <div>
+      <MyTable />
+    </div>
+  );
 }
